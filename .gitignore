@@ -17,11 +17,6 @@ coverage/
 playwright-report/
 test-results/
 
-# Test artifacts
-coverage/
-playwright-report/
-test-results/
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
